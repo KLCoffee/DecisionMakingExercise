@@ -38,8 +38,7 @@ if (randomNum !== 3 && randomNum !== 5) {
 // Bonus
 // 2
     console.log(randomNum >= 4 ? "Greater than or equal to 4":"Less than 4");
-    
-   
+// 3
     switch (randomNum){
     case 1: console.log("One");break; 
     case 2: console.log("Two"); break; 
